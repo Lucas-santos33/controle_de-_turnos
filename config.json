@@ -1,0 +1,6 @@
+{
+  "mongo_uri": "mongodb://localhost:27017/",
+  "database": "hora_a_hora",
+  "meta_padrao": 22,
+  "minutos_periodo": 60
+}
